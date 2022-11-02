@@ -1,7 +1,7 @@
 /***********************************************************************
  * Module:  Individuo.cpp
- * Author:  Samir
- * Modified: jueves, 27 de octubre de 2022 20:28:41
+ * Author:  Samir Mideros, Mateo Mendoza
+ * Modified: Jueves, 27 de octubre de 2022 20:28:41
  * Purpose: Implementation of the class Individuo
  ***********************************************************************/
 
